@@ -1,5 +1,8 @@
 # Dynamic Tic Tac Toe in Javascript; 3x3, 4x4 and 5x5 Boards (Computer & 2 Players options)
 
+## Live URL:
+https://akhand-tic-tac-toe.herokuapp.com
+
 ## Specifications:
 
 - Developed in core Javascript, without using any external library.
@@ -11,5 +14,5 @@
 - Added a score card for both players for a session.
 - Tested in Firefox and Chrome
 
-### Tech Stack :
+### Tech Stack:
 HTML | CSS  | JavaScript
